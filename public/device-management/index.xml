@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Device Management :: The Light Church</title>
+    <link>http://localhost:1313/device-management/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/device-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac OS - Image Rebuild</title>
+      <link>http://localhost:1313/device-management/macos-rebuild/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/device-management/macos-rebuild/index.html</guid>
+      <description>Hardware Device……..: Mac Mini (Late 2012) Processor..: 2.5Ghz Duel-Core Intel Memory…..: 8GB 1600mhz DDR3 (4GB x2) Graphics…: Intel HD Graphics 4000 (512mb) Local Disk.: Corsair 120GB SSD&#xA;Quick Links OpenCORE OS Installer OenCORE LegacyOS Patcher MacOS Download (Help Page)&#xA;Operating System Rebuild Notes Download the latest OpenCore Legacy Patcher from GitHib Link Here.&#xA;NOTE Once the zip has downloaded, it will auto extract the app&#xA;Launch OpenCore Legacy Patcher&#xA;Choose Create MacOS Installer and then Download MacOS Installer</description>
+    </item>
+    <item>
+      <title>Mac OS - Image Update</title>
+      <link>http://localhost:1313/device-management/macos-update/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/device-management/macos-update/index.html</guid>
+      <description>How to update MacOS</description>
+    </item>
+    <item>
+      <title>Mac OS - Keyboard</title>
+      <link>http://localhost:1313/device-management/macos-keyboard/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/device-management/macos-keyboard/index.html</guid>
+      <description>CTRL = ‘CONTROL’ WIN = ‘Command’ ALT = ‘OPTION’</description>
+    </item>
+    <item>
+      <title>Windows - Image Rebuild</title>
+      <link>http://localhost:1313/device-management/windows-rebuild/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/device-management/windows-rebuild/index.html</guid>
+      <description>Download ISO Media from Link Here.&#xA;Windows 10 License Key - Check ‘TLC AV Team - Google Drive’ Microsoft Office 2021 - Check ‘TLC AV Team - Google Drive’&#xA;Install and Configure</description>
+    </item>
+  </channel>
+</rss>

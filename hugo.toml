@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'The Light Church'
+theme = 'hugo-theme-relearn'
+
+[outputFormats]
+  [outputFormats.print]
+    name= "print"
+    baseName = "index.print"
+    isHTML = true
+    mediaType = 'text/html'
+    permalinkable = false
+    noUgly = true
