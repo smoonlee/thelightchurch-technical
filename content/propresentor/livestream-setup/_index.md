@@ -1,3 +1,3 @@
 +++
-title = 'PP7 - Live Stream'
+title = 'Live Stream'
 +++

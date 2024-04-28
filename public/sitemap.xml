@@ -13,7 +13,13 @@
     <loc>http://localhost:1313/overview/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/allen-and-heath/sq6-digital-desk/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/atem-blackamagic/bmd-video-routing/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/device-management/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/streamconfig/youtube/index.html</loc>
@@ -25,6 +31,9 @@
     <loc>http://localhost:1313/streamconfig/resteam/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/allen-and-heath/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/atem-blackamagic/index.html</loc>
   </url>
   <url>
@@ -32,9 +41,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/propresentor/cmg-digital-media/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/device-management/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/lightkey/index.html</loc>
@@ -59,6 +65,9 @@
   </url>
   <url>
     <loc>http://localhost:1313/lightkey/macro-rtpmidi/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/allen-and-heath/sq4u-mixpad/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/tags/index.html</loc>

@@ -52,3 +52,12 @@ Choose USB device
 
 > **NOTE** \
 > Coffee Time! This takes 30 minutes +
+
+
+### Booting OpenCore Legacy Patcher (USB)
+
+[Offical Docs](https://dortania.github.io/OpenCore-Legacy-Patcher/BOOT.html)
+
+In short, Plug in the USB into the Mac, Hold Option\Alt Key. and boot from EFI partition - NOT Install MacOS 
+
+Once the installation has completed, Head to [Post Configuration](https://dortania.github.io/OpenCore-Legacy-Patcher/POST-INSTALL.html)

@@ -1,6 +1,7 @@
 +++
-title = 'YouTube'
+title = '[2] - YouTube'
 weight = '2'
 +++
 
-Head to YoutUbe Studio [Link Here](https://studio.youtube.com)
+Head to YouTube Studio [Link Here](https://studio.youtube.com)
+
