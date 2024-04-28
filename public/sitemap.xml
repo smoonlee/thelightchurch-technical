@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/atem-blackamagic/bmd-software/index.html</loc>
+    <loc>http://localhost:1313/streamconfig/canva/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/streamconfig/canva/index.html</loc>
+    <loc>http://localhost:1313/atem-blackamagic/bmd-software/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/lightkey/lightkey-dmx/index.html</loc>
@@ -16,19 +16,25 @@
     <loc>http://localhost:1313/allen-and-heath/sq6-digital-desk/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/streamconfig/youtube/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/atem-blackamagic/bmd-video-routing/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/device-management/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/streamconfig/youtube/index.html</loc>
+    <loc>http://localhost:1313/lightkey/lightkey-midi/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/streamconfig/resteam/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/atem-blackamagic/bmd-audio/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/streamconfig/resteam/index.html</loc>
+    <loc>http://localhost:1313/lightkey/macro-rtpmidi/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/allen-and-heath/index.html</loc>
@@ -46,7 +52,13 @@
     <loc>http://localhost:1313/lightkey/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/propresentor/livestream-setup/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/streamconfig/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/propresentor/look-and-feel/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/device-management/macos-rebuild/index.html</loc>
@@ -58,13 +70,10 @@
     <loc>http://localhost:1313/device-management/macos-keyboard/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/propresentor/livestream-setup/index.html</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/propresentor/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/lightkey/macro-rtpmidi/index.html</loc>
+    <loc>http://localhost:1313/propresentor/screen-config/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/allen-and-heath/sq4u-mixpad/index.html</loc>

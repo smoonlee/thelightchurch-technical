@@ -3,7 +3,7 @@
   <channel>
     <title>Mac OS - Image Rebuild :: The Light Church</title>
     <link>http://localhost:1313/device-management/macos-rebuild/index.html</link>
-    <description>Hardware Device……..: Mac Mini (Late 2012) Processor..: 2.5Ghz Duel-Core Intel Memory…..: 8GB 1600mhz DDR3 (4GB x2) Graphics…: Intel HD Graphics 4000 (512mb) Local Disk.: Corsair 120GB SSD&#xA;Quick Links OpenCORE OS Installer OenCORE LegacyOS Patcher MacOS Download (Help Page)&#xA;Operating System Rebuild Notes Download the latest OpenCore Legacy Patcher from GitHib Link Here.&#xA;NOTE Once the zip has downloaded, it will auto extract the app&#xA;Launch OpenCore Legacy Patcher&#xA;Choose Create MacOS Installer and then Download MacOS Installer</description>
+    <description>Hardware Device……..: Mac Mini (Late 2012) Processor..: 2.5Ghz Duel-Core Intel Memory…..: 8GB 1600mhz DDR3 (4GB x2) Graphics…: Intel HD Graphics 4000 (512mb) Local Disk.: Corsair Force GT 120GB SSD&#xA;Quick Links OpenCORE OS Installer OenCORE LegacyOS Patcher MacOS Download (Help Page)&#xA;Operating System Rebuild Notes Download the latest OpenCore Legacy Patcher from GitHib Link Here.&#xA;NOTE Once the zip has downloaded, it will auto extract the app&#xA;Launch OpenCore Legacy Patcher</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/device-management/macos-rebuild/index.xml" rel="self" type="application/rss+xml" />

@@ -7,7 +7,7 @@ Device........: Mac Mini (Late 2012) \
 Processor..: 2.5Ghz Duel-Core Intel \
 Memory.....: 8GB 1600mhz DDR3 (4GB x2) \
 Graphics...: Intel HD Graphics 4000 (512mb) \
-Local Disk.: Corsair 120GB SSD
+Local Disk.: Corsair Force GT 120GB SSD
 
 ### Quick Links
 [OpenCORE OS Installer](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) \
