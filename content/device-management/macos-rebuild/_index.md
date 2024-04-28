@@ -61,3 +61,7 @@ Choose USB device
 In short, Plug in the USB into the Mac, Hold Option\Alt Key. and boot from EFI partition - NOT Install MacOS 
 
 Once the installation has completed, Head to [Post Configuration](https://dortania.github.io/OpenCore-Legacy-Patcher/POST-INSTALL.html)
+
+### Post Configuration - MacOS
+After the initial setup has been completed, Run though the Legacy Patcher Post Configuration. 
+When the Mac reboots, Hold `ALT` and then choose the `EFI` partition. 
