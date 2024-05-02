@@ -12,14 +12,14 @@
       <link>http://localhost:1313/device-management/macos-rebuild/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/device-management/macos-rebuild/index.html</guid>
-      <description>Hardware Device……..: Mac Mini (Late 2012) Processor..: 2.5Ghz Duel-Core Intel Memory…..: 8GB 1600mhz DDR3 (4GB x2) Graphics…: Intel HD Graphics 4000 (512mb) Local Disk.: Corsair 120GB SSD&#xA;Quick Links OpenCORE OS Installer OenCORE LegacyOS Patcher MacOS Download (Help Page)&#xA;Operating System Rebuild Notes Download the latest OpenCore Legacy Patcher from GitHib Link Here.&#xA;NOTE Once the zip has downloaded, it will auto extract the app&#xA;Launch OpenCore Legacy Patcher&#xA;Choose Create MacOS Installer and then Download MacOS Installer</description>
+      <description>Hardware Device……..: Mac Mini (Late 2012) Processor..: 2.5Ghz Duel-Core Intel Memory…..: 8GB 1600mhz DDR3 (4GB x2) Graphics…: Intel HD Graphics 4000 (512mb) Local Disk.: Corsair Force GT 120GB SSD&#xA;Quick Links MacOS Download (Help Page) OpenCORE OS Installer OenCORE LegacyOS Patcher OpenCORE Legacy Troubleshooting MountEFI Partition&#xA;Operating System Rebuild Notes Download the latest OpenCore Legacy Patcher from GitHib Link Here.&#xA;NOTE Once the zip has downloaded, it will auto extract the app</description>
     </item>
     <item>
       <title>Mac OS - Image Update</title>
       <link>http://localhost:1313/device-management/macos-update/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/device-management/macos-update/index.html</guid>
-      <description>How to update MacOS</description>
+      <description>content to follow soon!</description>
     </item>
     <item>
       <title>Mac OS - Keyboard</title>

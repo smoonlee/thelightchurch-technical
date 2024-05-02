@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rtpMIDI :: The Light Church</title>
+    <title>Windows - rtpMIDI :: The Light Church</title>
     <link>http://localhost:1313/lightkey/macro-rtpmidi/index.html</link>
     <description>Download Link&#xA;Application Setup (Windows) Application Setup (Mac OS) NOTE COMMAND in WIN&#xA;Open Spotlight COMMAND + SPACE and search for Audio MIDI Setup&#xA;From Audio Devices COMMAND + 2 this open Midi Studio&#xA;From the top menu MIDI Studio &gt; Open MIDI Network Setup</description>
     <generator>Hugo</generator>

@@ -10,9 +10,12 @@ Graphics...: Intel HD Graphics 4000 (512mb) \
 Local Disk.: Corsair Force GT 120GB SSD
 
 ### Quick Links
+
+[MacOS Download (Help Page)](https://support.apple.com/en-us/102662)
 [OpenCORE OS Installer](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) \
 [OenCORE LegacyOS Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher) \
-[MacOS Download (Help Page)](https://support.apple.com/en-us/102662)
+[OpenCORE Legacy Troubleshooting](https://dortania.github.io/OpenCore-Legacy-Patcher/TROUBLESHOOTING.html#opencore-legacy-patcher-not-launching) \
+[MountEFI Partition](https://github.com/corpnewt/MountEFI)
 
 ### Operating System Rebuild Notes
 

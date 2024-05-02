@@ -22,11 +22,18 @@
       <description></description>
     </item>
     <item>
-      <title>rtpMIDI</title>
-      <link>http://localhost:1313/lightkey/macro-rtpmidi/index.html</link>
+      <title>MacOS - MIDI</title>
+      <link>http://localhost:1313/lightkey/macos-midi/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lightkey/macro-rtpmidi/index.html</guid>
-      <description>Download Link&#xA;Application Setup (Windows) Application Setup (Mac OS) NOTE COMMAND in WIN&#xA;Open Spotlight COMMAND + SPACE and search for Audio MIDI Setup&#xA;From Audio Devices COMMAND + 2 this open Midi Studio&#xA;From the top menu MIDI Studio &gt; Open MIDI Network Setup</description>
+      <guid>http://localhost:1313/lightkey/macos-midi/index.html</guid>
+      <description>Application Setup (Mac OS) NOTE COMMAND in WIN&#xA;Open Spotlight COMMAND + SPACE and search for Audio MIDI Setup&#xA;From Audio Devices COMMAND + 2 this open Midi Studio&#xA;From the top menu MIDI Studio &gt; Open MIDI Network Setup</description>
+    </item>
+    <item>
+      <title>Windows - rtpMIDI</title>
+      <link>http://localhost:1313/lightkey/windows-rtpmidi/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lightkey/windows-rtpmidi/index.html</guid>
+      <description>Download Link&#xA;Application Setup (Windows) </description>
     </item>
   </channel>
 </rss>

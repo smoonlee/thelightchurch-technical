@@ -34,7 +34,10 @@
     <loc>http://localhost:1313/atem-blackamagic/bmd-audio/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/lightkey/macro-rtpmidi/index.html</loc>
+    <loc>http://localhost:1313/lightkey/macos-midi/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/lightkey/windows-rtpmidi/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/allen-and-heath/index.html</loc>
