@@ -11,7 +11,7 @@ Local Disk.: Corsair Force GT 120GB SSD
 
 ### Quick Links
 
-[MacOS Download (Help Page)](https://support.apple.com/en-us/102662)
+[MacOS Download (Help Page)](https://support.apple.com/en-us/102662) \
 [OpenCORE OS Installer](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) \
 [OenCORE LegacyOS Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher) \
 [OpenCORE Legacy Troubleshooting](https://dortania.github.io/OpenCore-Legacy-Patcher/TROUBLESHOOTING.html#opencore-legacy-patcher-not-launching) \
