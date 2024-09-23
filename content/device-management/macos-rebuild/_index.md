@@ -43,7 +43,7 @@ Grab a coffee, this can take some time.
 Insert USB stick into Mac
 
 > **NOTE** \
-> Ensure that USB is 16Gb+
+> Ensure that USB is 32Gb+
 
 ![alt text](opencore-image5.png)
 
